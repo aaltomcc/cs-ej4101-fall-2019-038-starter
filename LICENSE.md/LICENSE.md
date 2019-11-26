@@ -1,0 +1,3 @@
+# Licence agreement......
+This page belongs to so and so..<br>
+<b>By continuing to use it you agree to ..</b>
