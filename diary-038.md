@@ -5,6 +5,7 @@ I decided to take this course because I want to learn more about computers, that
 MORE TO COME
 
 computers, why you decided to take this course and what you expected to learn. The related textual content should be between 250 and 500 words combined.
+![Lights go off][Light]
 
 ## LEARNED
 
@@ -22,3 +23,4 @@ The header should be followed by a few paragraphs or items in an unordered list 
 
 
 [yougot]: https://images.pexels.com/photos/2740956/pexels-photo-2740956.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260
+[Light]: https://images.pexels.com/photos/355948/pexels-photo-355948.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260
