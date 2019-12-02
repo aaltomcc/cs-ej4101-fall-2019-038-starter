@@ -1,4 +1,4 @@
-##THIS COURSE
+## THIS COURSE
 
 I decided to take this course because I want to learn more about computers, that affect our daily lives quite significantly, but that in their complexity can be quite misunderstood. 
 
@@ -6,7 +6,7 @@ MORE TO COME
 
 computers, why you decided to take this course and what you expected to learn. The related textual content should be between 250 and 500 words combined.
 
-##LEARNED
+## LEARNED
 
 *Git
 *Markdown
