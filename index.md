@@ -1,9 +1,23 @@
-MORE TO COME
+# ABOUT 
 
-    A heading starting with the "About" string (the actual case does not matter) and a few paragraphs (minimum 100 words in total) describing yourself, for instance, your current occupation and your general interest related to software and (or) computer science. Remember that both the repository source and the GitHub are public, so anyone can see what you write. If you feel uncomfortable in writing about yourself, write who you would like to be or just use a fictional character. In any case, do should not write any private information such as your student number, your date of birth, your address, and so on.
+I am a curious individual, in an ever-changing world, on a journey of understanding what makes the world go round.
 
-    An image of your choice. Is your responsibility to make sure that you comply with the image rights if you use a third-party image. (There are plenty of websites offering free images, such as pixabay and Pexels.) If you use a picture you took or an image you made, make sure to write down the usage rights; it is anyway recommended to avoid sharing any original image with commercial value. Again, remember that the repository and the related project page are public.
+## UNDERSTANDING COMPUTERS
 
-    A link to the diary-XXX.md page described below.
+Computers are present in almost every aspect of our lives - in how we communicate with each other, how we shop, get medical care, navigate, work, etc...  But what are computers really, and how do they work? We often take them for granted, without stopping to think about the complex work that goes into making the programs and devices we use. 
 
-You are free to add other content (for instance, to practice with Markdown) as long as you have the three items above.
+The development of computers has progressed in leaps and bounds from where it started not that many years ago, when computers were the size of rooms. But we haven't seen it all yet; the development still continues and we will still be amazed by new innovations and programs - by things we never thought possible. 
+
+Since computers are such a big part of our lives, I think we can all benefit from understand computers better, and get a broader idea of how they work. And when we do, who knows, maybe _we_ will be the ones inventing something big one day.  
+
+Follow [my journey](diary-308.md) of going from a noob to a budding IT-guru. 
+
+![Journey on][Journey] 
+
+
+
+
+
+
+
+[Journey]: https://images.pexels.com/photos/209692/pexels-photo-209692.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260
