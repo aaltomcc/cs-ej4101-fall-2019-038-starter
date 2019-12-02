@@ -9,9 +9,9 @@ computers, why you decided to take this course and what you expected to learn. T
 
 ## LEARNED
 
-*Git
-*Markdown
-*Merging commits
+* Git
+* Markdown
+* Merging commits
 
 MORE TO COME
 
