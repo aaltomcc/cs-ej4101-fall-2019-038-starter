@@ -10,7 +10,7 @@ The development of computers has progressed in leaps and bounds from where it st
 
 Since computers are such a big part of our lives, I think we can all benefit from understand computers better, and get a broader idea of how they work. And when we do, who knows, maybe _we_ will be the ones inventing something big one day.  
 
->[Follow me](diary-308.md) as I strive to go from a noob to a budding IT-guru. 
+>[Follow me](diary-038.md) as I strive to go from a noob to a budding IT-guru. 
 
 ![Journey on][Journey] 
 
