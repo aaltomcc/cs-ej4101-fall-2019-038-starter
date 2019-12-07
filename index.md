@@ -1,6 +1,7 @@
 # ABOUT 
 
-I am a curious individual, in an ever-changing world, on a journey of understanding what makes the world go round.
+I am a curious individual, in an ever-changing world, on a journey of understanding what makes the world go round. <br><br>
+
 
 ### UNDERSTANDING COMPUTERS
 
