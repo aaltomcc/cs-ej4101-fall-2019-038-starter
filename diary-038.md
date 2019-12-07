@@ -7,7 +7,7 @@ Signing up for this course, I expected to get a basic overview and gain a better
 ![Lights go off][Light]
 <br><br>
 
-## LEARNED
+### LEARNED
 
 * Git 
 * DevOps                                                    
