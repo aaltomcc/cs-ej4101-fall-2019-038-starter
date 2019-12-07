@@ -2,7 +2,7 @@
 
 I am a curious individual, in an ever-changing world, on a journey of understanding what makes the world go round.
 
-## UNDERSTANDING COMPUTERS
+### UNDERSTANDING COMPUTERS
 
 Computers are present in almost every aspect of our lives - in how we communicate with each other, how we shop, get medical care, navigate, work, etc...  But what are computers really, and how do they work? We often take them for granted, without stopping to think about the complex work that goes into making the programs and devices we use. 
 
