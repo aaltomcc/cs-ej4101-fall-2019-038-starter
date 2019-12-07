@@ -8,9 +8,9 @@ Computers are present in almost every aspect of our lives - in how we communicat
 
 The development of computers has progressed in leaps and bounds from where it started not that many years ago, when computers were the size of rooms. But we haven't seen it all yet; the development still continues and we will still be amazed by new innovations and programs - by things we never thought possible. 
 
-Since computers are such a big part of our lives, I think we can all benefit from understand computers better, and get a broader idea of how they work. And when we do, who knows, maybe _we_ will be the ones inventing something big one day.  
+Since computers are such a big part of our lives, I think we can all benefit from understanding computers better, and from getting a broader idea of how they work. And when we do, who knows, maybe _we_ will be the ones inventing something big one day.  
 
->[Follow me](diary-038.md) as I strive to go from a noob to a budding IT-guru. 
+>[Follow me](diary-038.md) on my journey, as I go from a noob to, well, the gfuture will tell ;) 
 
 ![Journey on][Journey] 
 
